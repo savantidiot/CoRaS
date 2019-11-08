@@ -1,0 +1,34 @@
+﻿Drug,Approval_Year,Subtype,CMAP,CMAP_Name,LINCS,LINCS_Name
+Methotrexate,1953,,No,,No,
+Cyclophosphamide,1959,,No,,No,
+Vinblastine sulfate,1965,,No,,No,
+Fluorouracil,1970,,Yes,fluorouracil,No,
+Doxorubicin hydrochloride,1974,,Yes,doxorubicin,No,
+Paclitaxel,1992,Unknown,Yes,paclitaxel,Yes,Taxol
+Thiotepa,1994,,No,,No,
+Docetaxel,1996,,No,,No,
+Gemcitabine,1996,,Yes,gemcitabine,No,
+Capecitabine,1998,,Yes,capecitabine,No,
+Epirubicin,1999,,Yes,epirubicin,No,
+Ixabepilone,2007,,Yes,ixabepilone,No,
+Eribulin mesylate,2010,,No,,No,
+Fluoxymesterone,1956,,No,,No,
+Methyltestosterone,1973,,No,,No,
+Tamoxifen citrate,1977,,Yes,tamoxifen,No,
+Goserelin,1989,,Yes,goserelin-acetate,No,
+Anastrozole,1995,,Yes,anastrozole,No,
+Letrozole,1997,,Yes,letrozole,No,
+Toremifene,1997,,Yes,toremifene,No,
+Trastuzumab,1998,,No,,No,
+Exemestane,1999,,Yes,exemestane,No,
+Fulvestrant,2002,,Yes,fulvestrant,No,
+Lapatinib ditosylate,2007,Her2,Yes,lapatinib,Yes,Lapatinib
+Everolimus,2009,"Er, Her2",Yes,everolimus,Yes,Torin2
+Pertuzumab,2012,,No,,No,
+Ado-trastuzumab emtansine,2013,,No,,No,
+Olaparib,2014,,Yes,olaparib,No,
+Palbocicilib,2015,"Er, Her2",Yes,palbociclib,Yes,Palbociclib
+Ribociclib,2017,,No,,No,
+neratinib,2017,Her2,Yes,neratinib,Yes,Neratinib
+abemaciclib,2017,,No,,No,
+talazoparib,2018,,Yes,talazoparib,No,
